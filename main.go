@@ -6,8 +6,8 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/putdotio/putio-sync/http"
-	"github.com/putdotio/putio-sync/sync"
+	"github.com/porty/putio-sync/http"
+	"github.com/porty/putio-sync/sync"
 )
 
 func main() {

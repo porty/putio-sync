@@ -4,7 +4,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/putdotio/putio-sync/sync"
+	"github.com/porty/putio-sync/sync"
 )
 
 const (

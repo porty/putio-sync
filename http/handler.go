@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/putdotio/putio-sync/sync"
+	"github.com/porty/putio-sync/sync"
 )
 
 type Handler struct {
